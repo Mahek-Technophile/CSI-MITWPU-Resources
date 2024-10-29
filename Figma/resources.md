@@ -7,7 +7,8 @@ This repository contains essential Figma-related webinars, tutorials, and guides
 ## 📑 Table of Contents  
 - [Download and Installation Guide](#download-and-installation-guide)  
 - [What is Design Thinking?](#what-is-design-thinking)  
-- [Project Tutorial](#project-tutorial)  
+- [Project Tutorial](#project-tutorial)
+- [Find Design Inspirations](#design-inspiration)
 
 ---
 
@@ -30,6 +31,9 @@ This repository contains essential Figma-related webinars, tutorials, and guides
   [Watch the Full Project Tutorial](https://youtu.be/HZuk6Wkx_Eg?si=6fv1bf9iejjMgWVk)
 
 ---
+## 🎨 Resources to find Design Inspirations
+- **Dribbble Link:**
+  [Dribbble Link](https://dribbble.com/)
 
 ## 🤝 Contribute and Stay Updated  
 Feel free to explore and use these resources to enhance your design skills with Figma.  
