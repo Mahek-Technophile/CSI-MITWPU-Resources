@@ -27,8 +27,10 @@ This repository contains essential Figma-related webinars, tutorials, and guides
 ---
 
 ## 🎥 Project Tutorial  
-- **Step-by-Step Project Development Using Figma:**  
-  [Watch the Full Project Tutorial](https://youtu.be/HZuk6Wkx_Eg?si=6fv1bf9iejjMgWVk)
+- **Step-by-Step Project Development Using Figma:**
+- [Beginners Guide to Figma: Playlist to explore figma](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
+- [Watch the Full Project Tutorial](https://youtu.be/HZuk6Wkx_Eg?si=6fv1bf9iejjMgWVk)
+ 
 
 ---
 ## 🎨 Resources to find Design Inspirations
